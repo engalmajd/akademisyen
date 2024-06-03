@@ -1,0 +1,13 @@
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\bin\Debug\UniversiteLogin.mdf
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\bin\Debug\UniversiteLogin_log.ldf
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\bin\Debug\WindowsFormsApp1.exe
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\OgerenciAkademisyenYonetim.csproj.AssemblyReference.cache
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\WindowsFormsApp1.EkleSil.resources
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\OgerenciAkademisyenYonetim.csproj.GenerateResource.cache
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\OgerenciAkademisyenYonetim.csproj.CoreCompileInputs.cache
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\WindowsFormsApp1.exe
+C:\Users\majda\OneDrive\Desktop\derslerim\nesneye\OOP_examples\OgerenciAkademisyenYonetim\OgerenciAkademisyenYonetim\obj\Debug\WindowsFormsApp1.pdb
